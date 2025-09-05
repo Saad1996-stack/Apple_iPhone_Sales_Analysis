@@ -32,10 +32,3 @@ Tools & Libraries
 - Plotly Express & Plotly Graph Objects → Interactive visualizations  
 - Jupyter Notebook → Development environment  
 
-How to Run
-1. Clone this repository  
-2. Install the required libraries:  
-   ```bash
-   pip install pandas numpy plotly
-   !pip install statsmodels
-	
